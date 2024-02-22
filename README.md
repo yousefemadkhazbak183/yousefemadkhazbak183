@@ -23,8 +23,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![C++](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=c++)&nbsp;
 
 
 
