@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-I love sharing my knowledge and experience, contribute to open source projects related to Swift and iOS, and sharing PoCs & problems as code.
+I love sharing my knowledge and experience.
 
 
 - 💬 **Ask me about**: OOP.
