@@ -14,7 +14,6 @@
 I love sharing my knowledge and experience.
 
 
-- 💬 **Ask me about**: OOP.
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
 - ⚡ **Fun fact**: I love ☕ and 🧑🏻‍💻.
