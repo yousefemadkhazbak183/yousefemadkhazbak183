@@ -16,7 +16,7 @@ I love sharing my knowledge and experience.
 
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
-
+- 💬 **Ask me about**: OOP, Flutter, SOLID Principle.
 - ⚡ **Fun fact**: I love ☕ and 🧑🏻‍💻.
 
 <hr/>
